@@ -1,0 +1,15 @@
+{
+  "queries": [
+    "what causes inflation",
+    "how do heat pumps work"
+  ],
+  "country": "us",
+  "language": "en",
+  "maxQueries": 2,
+  "proxyConfiguration": {
+    "useApifyProxy": true,
+    "apifyProxyGroups": [
+      "RESIDENTIAL"
+    ]
+  }
+}
